@@ -5,3 +5,4 @@
     - [Основные настройки ОС](/lectures/theory_os/Basic_OS_Settings.md)
     - [Стандарты на расположение каталогов файловой системы](/lectures/theory_os/standarts_catalog.md)
     - [Гипервизоры](/lectures/theory_os/hypervisor.md)
+    - [Работа в командном интерпритаторе bash и команды для базовой настройки Страницы](/lectures/theory_os/work_bash_basis_option.md)
