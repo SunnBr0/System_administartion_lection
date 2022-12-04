@@ -4,3 +4,4 @@
 2. [Установка и базовая настройка ОС](/lectures/theory_os/preview.md)
     - [Основные настройки ОС](/lectures/theory_os/Basic_OS_Settings.md)
     - [Стандарты на расположение каталогов файловой системы](/lectures/theory_os/standarts_catalog.md)
+    - [Гипервизоры](/lectures/theory_os/hypervisor.md)
