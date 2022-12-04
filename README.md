@@ -6,3 +6,4 @@
     - [Стандарты на расположение каталогов файловой системы](/lectures/theory_os/standarts_catalog.md)
     - [Гипервизоры](/lectures/theory_os/hypervisor.md)
     - [Работа в командном интерпритаторе bash и команды для базовой настройки Страницы](/lectures/theory_os/work_bash_basis_option.md)
+    - [Минимальные системные требования и установка ОС](/lectures/theory_os/min_sys_install_OS.md)
