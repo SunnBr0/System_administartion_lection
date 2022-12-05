@@ -9,4 +9,7 @@
     - [Минимальные системные требования и установка ОС](/lectures/theory_os/min_sys_install_OS.md)
 3. [Установка дополнительного ПО и настройка дополнительных служб](/lectures/install_dop_PO_setting_services/preview.md)
     - [Установка дополнителного ПО и компонентов Windows](/lectures/install_dop_PO_setting_services/install_PO_comp_Windows.md)
-    - [Установка дополнительно ПО в Linux](/lectures/install_dop_PO_setting_services/install_PO_in_Linux.md) 
+    - [Установка дополнительно ПО в Linux](/lectures/install_dop_PO_setting_services/install_PO_in_Linux.md)
+4. [Инструментарий автоматизации задач в ОС](/lectures/install_dop_PO_setting_services/preview.md)
+    - [Выполнения задач в Linux по расписанию](/lectures/auto_OC_instrument/linux_tasks.md)
+    - [Выполнение задач в Windows по расписанию](/lectures/auto_OC_instrument/windows_tasks.md)
