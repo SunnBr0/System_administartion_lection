@@ -13,3 +13,7 @@
 4. [Инструментарий автоматизации задач в ОС](/lectures/install_dop_PO_setting_services/preview.md)
     - [Выполнения задач в Linux по расписанию](/lectures/auto_OC_instrument/linux_tasks.md)
     - [Выполнение задач в Windows по расписанию](/lectures/auto_OC_instrument/windows_tasks.md)
+5. [Централизированный мониторинг и управление](/lectures/center_monitoring/preview.md)
+    - [Zabbix](/lectures/center_monitoring/windows_tasks.md)
+    - [Microsoft Active Directory](/lectures/center_monitoring/windows_tasks.md)
+    - [Работа с сетевыми дисками](/lectures/center_monitoring/windows_tasks.md)
